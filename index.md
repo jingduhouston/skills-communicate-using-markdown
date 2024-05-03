@@ -1,5 +1,5 @@
 # this is testing for markdown in GitHub
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ''' javascript
-var myVar = "hello, world!"
+var myVar = "hello, world!";
 '''
